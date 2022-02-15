@@ -29,7 +29,6 @@ Currency Unit	Amount
 |Ten Dollars	      | $10   |
 |Twenty Dollars	    | $20   |
 |One-hundred Dollars|	$100  |
-```
 
 See below for an example of a cash-in-drawer array:
 ```
